@@ -1,6 +1,6 @@
 
 
-# 📊 rStore Sales Analytics Dashboard
+# 📊 Store Sales Analytics Dashboard
 
 An end-to-end Business Intelligence project built using **Power BI**, **SQL**, and **Python** to analyze SuperStore sales data and provide actionable business insights through an interactive dashboard.
 
@@ -43,7 +43,6 @@ This dashboard helps answer key business questions such as:
 | Python | Data Cleaning & Exploratory Data Analysis |
 | Pandas | Data Manipulation |
 | NumPy | Numerical Analysis |
-| Matplotlib | Data Visualization |
 | DAX | KPI Measures |
 | Power Query | Data Transformation |
 
